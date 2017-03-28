@@ -1,0 +1,7 @@
+alert("Hola mama estoy programando");
+
+var x = 1;
+var y = 2;
+var z = x + y;
+z;
+alert("El valor de Z es " + z);
